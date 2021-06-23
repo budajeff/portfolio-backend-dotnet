@@ -1,0 +1,10 @@
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/web.config
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/portfolio-backend-dotnet
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/appsettings.Development.json
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/appsettings.json
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/portfolio-backend-dotnet.dll
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/portfolio-backend-dotnet.deps.json
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/portfolio-backend-dotnet.runtimeconfig.json
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/portfolio-backend-dotnet.pdb
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/home/jeff/git/budajeff/portfolio-backend-dotnet/bin/Debug/net5.0/publish/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
